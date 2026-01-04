@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Dark Background for Contrast -->
+    <rect width="512" height="512" fill="#1A1A1A"/>
+    
+    <!-- Soft Rounded Card Shape -->
+    <rect x="80" y="80" width="352" height="352" rx="90" fill="#F0F0E6"/>
+    
+    <!-- Cute Rounded Star Symbol -->
+    <path d="M256 150 Q 256 256 362 256 Q 256 256 256 362 Q 256 256 150 256 Q 256 256 256 150 Z" fill="#1A1A1A"/>
+    
+    <!-- Floating 'Magic' Particles for Cuteness -->
+    <circle cx="350" cy="150" r="18" fill="#F0F0E6"/>
+    <circle cx="162" cy="362" r="18" fill="#F0F0E6"/>
+    
+    <!-- Subtle inset detail -->
+    <circle cx="150" cy="150" r="8" fill="#1A1A1A" fill-opacity="0.1"/>
+    <circle cx="362" cy="362" r="8" fill="#1A1A1A" fill-opacity="0.1"/>
+</svg>
