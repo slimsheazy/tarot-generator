@@ -31,7 +31,8 @@ Perfect for embedding inside other sites.
   title="Tarot Spread Generator"
   loading="lazy"
   allow="clipboard-write">
-</iframe>```
+</iframe>
+```
 
 **Gemini‑Powered**
 - Uses a custom system prompt
@@ -52,7 +53,8 @@ Perfect for embedding inside other sites.
 │   ├── SpreadDisplay.tsx
 │   ├── CardPlaceholder.tsx
 │   └── Loader.tsx
-└── metadata.json```
+└── metadata.json
+```
 
 **Component Overview**
 - **SpreadGeneratorForm** – Handles user input and Gemini requests
